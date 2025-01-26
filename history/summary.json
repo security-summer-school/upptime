@@ -2,7 +2,7 @@
   {
     "name": "OCW",
     "url": "https://security.cs.pub.ro/summer-school/wiki/",
-    "icon": "https://icons.duckduckgo.com/ip3/security.cs.pub.ro.ico",
+    "icon": "https://security.cs.pub.ro/summer-school/wiki/lib/tpl/dokuwiki/images/logo.png",
     "slug": "ocw",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1875,
-    "timeDay": 1875,
-    "timeWeek": 1875,
-    "timeMonth": 1875,
-    "timeYear": 1875,
+    "time": 1682,
+    "timeDay": 1682,
+    "timeWeek": 1682,
+    "timeMonth": 1682,
+    "timeYear": 1682,
     "dailyMinutesDown": {}
   }
 ]
