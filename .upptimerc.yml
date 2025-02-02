@@ -2,10 +2,10 @@ owner: security-summer-school
 repo: upptime
 
 sites:
-  # - name: OCW
-    # url: https://security.cs.pub.ro/summer-school/wiki/
-    # icon: https://security.cs.pub.ro/summer-school/wiki/lib/tpl/dokuwiki/images/logo.png
-    # maxResponseTime: 60000 # 60 seconds
+  - name: OCW
+    url: https://security.cs.pub.ro/summer-school/wiki/
+    icon: https://security.cs.pub.ro/summer-school/wiki/lib/tpl/dokuwiki/images/logo.png
+    maxResponseTime: 60000 # 60 seconds
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
