@@ -6,17 +6,17 @@
     "slug": "ocw",
     "status": "down",
     "uptime": "98.73%",
-    "uptimeDay": "61.43%",
-    "uptimeWeek": "82.43%",
-    "uptimeMonth": "89.31%",
+    "uptimeDay": "62.07%",
+    "uptimeWeek": "82.52%",
+    "uptimeMonth": "89.28%",
     "uptimeYear": "98.73%",
-    "time": 2781,
-    "timeDay": 3203,
-    "timeWeek": 2534,
-    "timeMonth": 3012,
-    "timeYear": 2781,
+    "time": 2782,
+    "timeDay": 3057,
+    "timeWeek": 2538,
+    "timeMonth": 3013,
+    "timeYear": 2782,
     "dailyMinutesDown": {
-      "2025-10-08": 413,
+      "2025-10-08": 404,
       "2025-10-07": 265,
       "2025-10-06": 144,
       "2025-10-05": 461,
@@ -38,7 +38,7 @@
       "2025-09-15": 67,
       "2025-09-14": 29,
       "2025-09-11": 187,
-      "2025-09-10": 59
+      "2025-09-10": 81
     }
   }
 ]
