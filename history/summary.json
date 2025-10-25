@@ -4,7 +4,7 @@
     "url": "https://security.cs.pub.ro/summer-school/wiki/",
     "icon": "https://security.cs.pub.ro/summer-school/wiki/lib/tpl/dokuwiki/images/logo.png",
     "slug": "ocw",
-    "status": "up",
+    "status": "down",
     "uptime": "98.53%",
     "uptimeDay": "58.12%",
     "uptimeWeek": "71.12%",
@@ -12,7 +12,7 @@
     "uptimeYear": "98.53%",
     "time": 2747,
     "timeDay": 2444,
-    "timeWeek": 2750,
+    "timeWeek": 2729,
     "timeMonth": 2745,
     "timeYear": 2747,
     "dailyMinutesDown": {
