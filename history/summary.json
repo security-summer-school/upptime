@@ -4,19 +4,19 @@
     "url": "https://security.cs.pub.ro/summer-school/wiki/",
     "icon": "https://security.cs.pub.ro/summer-school/wiki/lib/tpl/dokuwiki/images/logo.png",
     "slug": "ocw",
-    "status": "up",
+    "status": "down",
     "uptime": "98.98%",
-    "uptimeDay": "61.57%",
-    "uptimeWeek": "84.90%",
-    "uptimeMonth": "90.15%",
+    "uptimeDay": "62.29%",
+    "uptimeWeek": "85.06%",
+    "uptimeMonth": "90.09%",
     "uptimeYear": "98.98%",
-    "time": 2682,
+    "time": 2680,
     "timeDay": 2709,
     "timeWeek": 2508,
-    "timeMonth": 2487,
-    "timeYear": 2682,
+    "timeMonth": 2483,
+    "timeYear": 2680,
     "dailyMinutesDown": {
-      "2025-11-16": 211,
+      "2025-11-16": 201,
       "2025-11-15": 342,
       "2025-11-14": 95,
       "2025-11-12": 24,
@@ -34,7 +34,7 @@
       "2025-10-29": 359,
       "2025-10-28": 310,
       "2025-10-27": 467,
-      "2025-10-26": 322
+      "2025-10-26": 357
     }
   }
 ]
