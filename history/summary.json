@@ -6,14 +6,14 @@
     "slug": "ocw",
     "status": "up",
     "uptime": "99.09%",
-    "uptimeDay": "27.11%",
+    "uptimeDay": "28.28%",
     "uptimeWeek": "85.99%",
-    "uptimeMonth": "89.86%",
+    "uptimeMonth": "89.93%",
     "uptimeYear": "99.09%",
     "time": 2556,
     "timeDay": 3577,
     "timeWeek": 2859,
-    "timeMonth": 2350,
+    "timeMonth": 2349,
     "timeYear": 2556,
     "dailyMinutesDown": {
       "2025-12-30": 377,
@@ -34,7 +34,7 @@
       "2025-12-10": 286,
       "2025-12-09": 457,
       "2025-12-08": 598,
-      "2025-12-07": 93
+      "2025-12-07": 59
     }
   }
 ]
